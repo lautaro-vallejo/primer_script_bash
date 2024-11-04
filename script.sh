@@ -35,7 +35,7 @@ function actualizar_sistema {
     echo "removiendo archivos innecesarios"
     sudo apt autoremove -y
 
-    echo "===== actualizacion comleta ====="
+    echo "===== actualizacion completa ====="
 }
 
 function limpiar_temporales {
